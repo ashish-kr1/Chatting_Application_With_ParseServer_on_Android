@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="497395336998404"
+    token="-3146449098951866323"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="8813" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3779" />
+    <task
+        name="verifier"
+        duration="1910" />
+
+    <artifact
+        location="C:\Users\ASUS\AndroidStudioProjects\Whatsapp\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="497395336998404"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\ASUS\AndroidStudioProjects\Whatsapp\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

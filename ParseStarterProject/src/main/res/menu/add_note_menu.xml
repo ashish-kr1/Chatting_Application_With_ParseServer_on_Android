@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/add_note" android:title="Add Note"
+    android:icon="@drawable/ic_action_notes"    >
+</item>
+    <item android:id="@+id/back_note" android:title="Exit">
+
+    </item>
+</menu>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_offline.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\src\\main\\res\\layout-v21\\activity_offline.xml"
+    }
+]

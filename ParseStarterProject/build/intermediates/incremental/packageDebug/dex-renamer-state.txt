@@ -1,0 +1,7 @@
+#Sun Sep 10 09:26:37 GMT-08:00 2017
+base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c53419d8b254a7fc3ddf8f37fe218221d9c57afe
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1bca0aaf8b1f10784c02ac4b5ae3ad580fdf7d0f\\classes.dex
+base.1=C\:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1bca0aaf8b1f10784c02ac4b5ae3ad580fdf7d0f
+file.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c53419d8b254a7fc3ddf8f37fe218221d9c57afe\\classes.dex

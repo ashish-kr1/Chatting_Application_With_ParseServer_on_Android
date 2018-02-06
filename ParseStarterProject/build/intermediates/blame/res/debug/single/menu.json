@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\add_note_menu.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\src\\main\\res\\menu\\add_note_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\note_menu.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\src\\main\\res\\menu\\note_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu2.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\src\\main\\res\\menu\\menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\share_menu.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Whatsapp\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    }
+]
